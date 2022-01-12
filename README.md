@@ -61,3 +61,4 @@ while True:
 
     lista_de_tarefas.append(tarefa)
 ```
+![Terminal do Software](https://github.com/diegoguedes91/curso_python_lista_de_tarefas/blob/main/output.png)
